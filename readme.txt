@@ -6,4 +6,4 @@ This project compares machine learning algorithm in case of limited training and
 study of methods to predict missing data. 
 
 Random forest regressor performs the best for predicting the missing values with an accuracy of 54.34%. 
-SVM performs the best for multi and binary classification.
+SVM performs the best for multi and binary classification with an accuracy of 84.21 and 63.15% respectively.
