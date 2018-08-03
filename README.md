@@ -5,6 +5,9 @@ lagging in implementing effective ways to store and retrieve medical records whi
 effective machine learning algorithm. In this project, machine learning algorithms are tuned and compared to observe which performs
 the best in case of sparse data.
 
+# Data
+https://archive.ics.uci.edu/ml/datasets/heart+Disease
+
 # Method
 
 *In case of missing data, the following algorithms were used and compared:*
@@ -22,6 +25,21 @@ the best in case of sparse data.
 2.Multi class logistic regression
 
 3.Decision Trees: Adaboost
+
+# Procedure to run
+
+1. In order to predict missing value
+```
+python dealingwithmissingvalue.py
+```
+2. Classification for binary class
+```
+python met_bin.py 
+```
+3. Classification for multi class
+```
+python met_bin.py 
+```
 
 # Results
 
